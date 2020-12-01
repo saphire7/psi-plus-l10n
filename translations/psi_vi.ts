@@ -13315,11 +13315,11 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Eating</source>
-        <translation>Ăn cơm</translation>
+        <translation>Đang ăn</translation>
     </message>
     <message>
         <source>Out eating.  Mmmm.. food.</source>
-        <translation>Tôi đi ra ngoài ăn đồ ngon quá.</translation>
+        <translation>Đang ăn bên ngoài. Đồ ăn ngon quá!..</translation>
     </message>
     <message>
         <source>Sleep</source>
@@ -13327,7 +13327,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Sleep is good.  Zzzzz</source>
-        <translation>Tôi ngủ ngọt.  Zzzzz</translation>
+        <translation>Ngủ ngon.  Zzzzz</translation>
     </message>
     <message>
         <source>Work</source>
@@ -13335,7 +13335,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation>Không có rảnh chát vì phải làm việc.</translation>
+        <translation>Đang bận việc.</translation>
     </message>
     <message>
         <source>Air</source>
@@ -13343,7 +13343,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Stepping out to get some fresh air.</source>
-        <translation>Tôi đã đi ra ngoại, nơi đó không khí mát mẻ.
+        <translation>Đã đi ra ngoài hóng gió.
 </translation>
     </message>
     <message>
